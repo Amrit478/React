@@ -1,3 +1,7 @@
+/*Function components are declared similarly to JavaScript functions. 
+The difference is that components accept props and render JSX elements. 
+You'll learn more about JSX next.*/
+
 import "use State" from "react"
 
 function App() {
